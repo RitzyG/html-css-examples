@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, sans-serif;
+  }
+  
+  ul{
+    margin:0;
+    padding:0;
+  }
+  li{
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  
+  .menu-header{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+  }
+  
+  .menu-header img{
+    border-radius:50%;
+    width: 85px;
+  }
+  
+  .name{
+    color:#202124;
+    font-size: 16px;
+    line-height: 22px;
+  }
+  
+  .email{
+    color:#5F6368;
+    font-size:14px;
+    line-height:19px;
+  }
+  
+  .menu{
+    list-style-type:none;
+    width:320px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
